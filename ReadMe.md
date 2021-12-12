@@ -1,4 +1,4 @@
 # 运行
-cd shoppingCar-server
-yarn
-node .\app.js
+- cd shoppingCar-server
+- yarn
+- node .\app.js
